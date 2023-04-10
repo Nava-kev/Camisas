@@ -1,0 +1,2 @@
+camisas.PruebaCamisas
+camisas.ProbararAritmetica
